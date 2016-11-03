@@ -1,0 +1,16 @@
+# --------------------
+# Xcode Files
+# --------------------
+*.xcodeproj/project.xcworkspace*
+*.xcodeproj/xcuserdata*
+*.xcworkspace/xcuserdata/*
+*.xcworkspace/xcshareddata/*.xccheckout
+build/*
+# Carthage/Carthage/*
+EmoticonPackage/Carthage/Build/iOS/*.bcsymbolmap
+EmoticonPackage/Carthage/Build/iOS/*.dSYM
+EmoticonPackage/Carthage/Checkouts/*
+EmoticonPackage/Carthage/Build/Mac/*
+EmoticonPackage/Carthage/Build/tvOS/*
+EmoticonPackage/Carthage/Build/watchOS/*
+EmoticonPackage/Cartfile.resolved
