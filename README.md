@@ -1,0 +1,2 @@
+# EmoticonPackageDemo
+通过collectionview实现的表情键盘
